@@ -1,3 +1,6 @@
+
+// exemplo manipulacao de arrays
+
 let frutas = ["maçã", "banana", "laranja"];
 frutas.push("uva"); // Adiciona "uva" ao final do array
 console.log(frutas);

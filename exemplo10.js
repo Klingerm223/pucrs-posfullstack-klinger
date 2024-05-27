@@ -11,3 +11,4 @@ class Pessoa {
 
 let pessoa1 = new Pessoa("Klinger", 50);
 console.log(pessoa1.saudacao());
+console.log(pessoa1.idade);
