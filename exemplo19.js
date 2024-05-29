@@ -45,14 +45,3 @@ myLL.add(new Node(12));
 myLL.add(new Node(130));
 myLL.print();
 
-// let no1 = new Node (10);
-
-// let no2 = new Node (20);
-
-// no1.next = no2
-
-// console.log(no1);
-// console.log(no2);
-
-
-
